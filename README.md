@@ -21,3 +21,4 @@ To conduct a comprehensive analysis of Road Accidents for Year 2021 and 2022, to
 
 •	Total Casualties and Total Accidents by Location
 
+-Dashboard Interaction  <a href=https://github.com/gunjan403/PowerBI-Road-Accident-Dashboard/blob/main/Road%20Accident.pbix>View Dashboard</a>
