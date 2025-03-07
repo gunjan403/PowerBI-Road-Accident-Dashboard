@@ -23,3 +23,26 @@ To conduct a comprehensive analysis of Road Accidents for Year 2021 and 2022, to
    
 
 •	Dashboard Interaction  <a href=https://github.com/gunjan403/PowerBI-Road-Accident-Dashboard/blob/main/Road%20Accident.pbix>View Dashboard</a>
+
+## Process:
+- Identify data sources (Excel, SQL Server, etc.)
+
+- Clean and transform data using Power Query (remove duplicates, handle missing values).
+
+- Made sure data is consistent and standardized with respect to data types, data formats and values used.
+
+- Optimize using DAX measures and calculated columns.
+
+- Choose the right visualizations (e.g., bar chart, pie charts, maps, matrix, cards
+
+  ## Dashboard:
+  
+  <img width="577" alt="Image" src="https://github.com/user-attachments/assets/a4631869-d482-4c86-91ba-ddb97e2d0bc7" />
+
+  ## Project Insights:
+  -Total Sum of Number of Casualties was higher for 2021 (222146) than 2022 (195737).
+  
+  -Nov in Year 2021 made up 5.02% of Sum of Number of Casualties.
+  
+  -At 144653, Single carriageway had the highest CY Casualties and was 4,737.89% higher than Slip Road, which had the lowest CY Casualties at 2990.
+
